@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @FancyGoose08
+- 👋 Hi, I’m Gustavo Aguiar
+- My internet alias is FancyGoose1775 (or in this case FancyGoose08)
 - 👀 I’m interested in game development and 3D modeling
 - 🌱 I’m currently learning 3D Modeling and graphics
 - 💞️ I’m looking to collaborate on anything game development
